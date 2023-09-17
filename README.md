@@ -7,7 +7,7 @@
 ![A6](https://github.com/codervipsingh/Amazon-clone/assets/120233689/74922621-ea5c-45f6-a1b4-ae5db2eadc6a)
 ![A7](https://github.com/codervipsingh/Amazon-clone/assets/120233689/af3bfd52-61be-4865-98d3-ae39381ef741)
 ![A8](https://github.com/codervipsingh/Amazon-clone/assets/120233689/27605fa1-540d-4d12-8df9-d8e0baa5909f)
-# HTML#
+# HTML
 * div tag for division
 * header tag for navigational links
 * nav tag defines a set of navigation links
@@ -26,7 +26,7 @@
 * class attribute for styling in css
 * form tag for information
 * textarea for details
-  # CSS #
+  # CSS 
 * bc prop. for bg-color
 * lin-height pro. for text gapping space
 * margin pro. for space around elements
